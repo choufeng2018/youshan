@@ -1,0 +1,274 @@
+﻿.ax_default {
+  font-family:'ArialMT', 'Arial';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_2 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#333333;
+}
+.shape {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+._图片 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#333333;
+}
+._一级标题 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  color:#333333;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  color:#333333;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  color:#333333;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  color:#333333;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'思源黑体';
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  color:#333333;
+  text-align:left;
+}
+.label {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:left;
+}
+._文本段落 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#333333;
+  text-align:left;
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+._流程形状 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#333333;
+}
+.line {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#333333;
+}
+.text_field {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+  text-align:left;
+}
+.icon {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+._形状 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+}
+._默认样式 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+}
+.primary_button {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  color:#FFFFFF;
+}
+.box_3 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.ellipse {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.box_1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+._文本段落1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+.button {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.box_21 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.line1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+._默认样式1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+._默认样式2 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.image {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.shape1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.label1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.icon1 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.box_11 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+}
+.paragraph {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+.shape2 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_22 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.shape3 {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+._28号字_页面备注信息及列表的表头说明文字__） {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.horizontal_line {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.table_cell {
+  font-family:'思源黑体';
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.flow_shape {
+}
+._连接线 {
+}
+.ellipse1 {
+}
+textarea, select, input, button { outline: none; }

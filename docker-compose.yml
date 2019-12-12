@@ -1,0 +1,13 @@
+version: "3.7"
+
+services:
+  nginx:
+    image: nginx:alpine
+    container_name: youshan
+    ports:
+      - "8077:8000"
+    volumes:
+      - ./youshan-pt:/usr/share/nginx/html
+      - ./nginx.conf:/etc/nginx/conf.d/default.conf
+    restart: always
+
