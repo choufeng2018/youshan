@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="347px" height="154px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <filter x="-4px" y="217px" width="347px" height="154px" filterUnits="userSpaceOnUse" id="filter1581">
-      <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="2.5" in="shadowOffsetInner" result="shadowGaussian" />
-      <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0.949019607843137  0 0 0 0 0.949019607843137  0 0 0 0 0.949019607843137  0 0 0 0.349019607843137 0  " in="shadowComposite" />
-    </filter>
-    <g id="widget1582">
-      <path d="M 1 220  L 338 220  L 338 364  L 1 364  L 1 220  Z " fill-rule="nonzero" fill="#e4e4e4" stroke="none" fill-opacity="0.2" />
-    </g>
-  </defs>
-  <g transform="matrix(1 0 0 1 4 -217 )">
-    <use xlink:href="#widget1582" filter="url(#filter1581)" />
-    <use xlink:href="#widget1582" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="12px" height="7px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -311 -194 )">
+    <path d="M 11.8797595190381 0.717525773195881  C 11.9599198396793 0.797250859106526  12 0.888934707903779  12 0.992577319587632  C 12 1.09621993127148  11.9599198396793 1.18790378006873  11.8797595190381 1.26762886597938  L 6.27655310621242 6.84041237113402  C 6.19639278557116 6.92013745704466  6.10420841683367 6.96  6 6.96  C 5.89579158316633 6.96  5.80360721442884 6.92013745704466  5.72344689378758 6.84041237113402  L 0.120240480961911 1.26762886597938  C 0.040080160320656 1.18790378006873  0 1.09621993127148  0 0.992577319587632  C 0 0.888934707903779  0.040080160320656 0.797250859106526  0.120240480961911 0.717525773195881  L 0.721442885771523 0.119587628865979  C 0.801603206412835 0.0398625429553263  0.89378757515027 0  0.997995991983998 0  C 1.10220440881761 0  1.1943887775551 0.0398625429553263  1.27454909819636 0.119587628865979  L 6 4.81938144329897  L 10.7254509018036 0.119587628865979  C 10.8056112224449 0.0398625429553263  10.8977955911824 0  11.002004008016 0  C 11.1062124248497 0  11.1983967935872 0.0398625429553263  11.2785571142285 0.119587628865979  L 11.8797595190381 0.717525773195881  Z " fill-rule="nonzero" fill="#999999" stroke="none" transform="matrix(1 0 0 1 311 194 )" />
   </g>
 </svg>
