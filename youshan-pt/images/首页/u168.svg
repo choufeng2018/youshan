@@ -1,18 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="44px" height="42px" xmlns="http://www.w3.org/2000/svg">
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="71px" height="72px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter x="41px" y="5px" width="44px" height="42px" filterUnits="userSpaceOnUse" id="filter2322">
-      <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetInner" />
-      <feGaussianBlur stdDeviation="5" in="shadowOffsetInner" result="shadowGaussian" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="172" y1="335" x2="131" y2="371" id="LinearGradient3048">
+      <stop id="Stop3049" stop-color="#2e03a7" offset="0" />
+      <stop id="Stop3050" stop-color="#ff6600" offset="0" />
+      <stop id="Stop3051" stop-color="#2ce60e" offset="0" />
+      <stop id="Stop3052" stop-color="#ffffff" offset="1" />
+      <stop id="Stop3053" stop-color="#ffcc66" offset="1" />
+    </linearGradient>
+    <filter x="116px" y="320px" width="71px" height="72px" filterUnits="userSpaceOnUse" id="filter3054">
+      <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetInner" />
+      <feGaussianBlur stdDeviation="7.5" in="shadowOffsetInner" result="shadowGaussian" />
       <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
-      <feColorMatrix type="matrix" values="0 0 0 0 0.184313725490196  0 0 0 0 0.470588235294118  0 0 0 0 1  0 0 0 0.2 0  " in="shadowComposite" />
+      <feColorMatrix type="matrix" values="0 0 0 0 0.4  0 0 0 0 0.6  0 0 0 0 1  0 0 0 0.329411764705882 0  " in="shadowComposite" />
     </filter>
-    <g id="widget2323">
-      <path d="M 20.5199999999999 10.8  L 20.5199999999999 20.52  C 20.5199999999999 21.1164675298173  20.0364675298172 21.6  19.4399999999999 21.6  L 4.32000000000005 21.6  C 3.72353247018276 21.6  3.24000000000012 21.1164675298173  3.24000000000012 20.52  L 3.24000000000012 10.8  L 0 10.8  L 11.1531600000001 0.660959999999996  C 11.5652000192157 0.28604517293217  12.1947999807844 0.28604517293217  12.60684 0.660959999999996  L 23.76 10.8  L 20.5199999999999 10.8  Z M 12.96 12.96  L 10.8 12.96  L 10.8 19.44  L 12.96 19.44  L 12.96 12.96  Z " fill-rule="nonzero" fill="#2f78ff" stroke="none" transform="matrix(1 0 0 1 51 15 )" />
+    <g id="widget3055">
+      <path d="M 151.5 329  C 162.98 329  172 338.24  172 350  C 172 361.76  162.98 371  151.5 371  C 140.02 371  131 361.76  131 350  C 131 338.24  140.02 329  151.5 329  Z " fill-rule="nonzero" fill="url(#LinearGradient3048)" stroke="none" />
     </g>
   </defs>
-  <g transform="matrix(1 0 0 1 -41 -5 )">
-    <use xlink:href="#widget2323" filter="url(#filter2322)" />
-    <use xlink:href="#widget2323" />
+  <g transform="matrix(1 0 0 1 -116 -320 )">
+    <use xlink:href="#widget3055" filter="url(#filter3054)" />
+    <use xlink:href="#widget3055" />
   </g>
 </svg>
