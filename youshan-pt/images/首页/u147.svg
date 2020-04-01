@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="71px" height="72px" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient gradientUnits="userSpaceOnUse" x1="129" y1="283" x2="170" y2="241" id="LinearGradient950">
-      <stop id="Stop951" stop-color="#00ffff" offset="0" />
-      <stop id="Stop952" stop-color="#ff99ff" offset="0" />
-      <stop id="Stop953" stop-color="#ffff00" offset="0.91" />
-      <stop id="Stop954" stop-color="#facd91" offset="1" />
-      <stop id="Stop955" stop-color="#ff00ff" offset="1" />
+    <linearGradient gradientUnits="userSpaceOnUse" x1="129" y1="283" x2="170" y2="241" id="LinearGradient1294">
+      <stop id="Stop1295" stop-color="#00ffff" offset="0" />
+      <stop id="Stop1296" stop-color="#ff99ff" offset="0" />
+      <stop id="Stop1297" stop-color="#ffff00" offset="0.91" />
+      <stop id="Stop1298" stop-color="#facd91" offset="1" />
+      <stop id="Stop1299" stop-color="#ff00ff" offset="1" />
     </linearGradient>
-    <filter x="114px" y="232px" width="71px" height="72px" filterUnits="userSpaceOnUse" id="filter956">
+    <filter x="114px" y="232px" width="71px" height="72px" filterUnits="userSpaceOnUse" id="filter1300">
       <feOffset dx="0" dy="6" in="SourceAlpha" result="shadowOffsetInner" />
       <feGaussianBlur stdDeviation="7.5" in="shadowOffsetInner" result="shadowGaussian" />
       <feComposite in2="shadowGaussian" operator="atop" in="SourceAlpha" result="shadowComposite" />
       <feColorMatrix type="matrix" values="0 0 0 0 1  0 0 0 0 0  0 0 0 0 1  0 0 0 0.329411764705882 0  " in="shadowComposite" />
     </filter>
-    <g id="widget957">
-      <path d="M 149.5 241  C 160.98 241  170 250.24  170 262  C 170 273.76  160.98 283  149.5 283  C 138.02 283  129 273.76  129 262  C 129 250.24  138.02 241  149.5 241  Z " fill-rule="nonzero" fill="url(#LinearGradient950)" stroke="none" />
+    <g id="widget1301">
+      <path d="M 149.5 241  C 160.98 241  170 250.24  170 262  C 170 273.76  160.98 283  149.5 283  C 138.02 283  129 273.76  129 262  C 129 250.24  138.02 241  149.5 241  Z " fill-rule="nonzero" fill="url(#LinearGradient1294)" stroke="none" />
     </g>
   </defs>
   <g transform="matrix(1 0 0 1 -114 -232 )">
-    <use xlink:href="#widget957" filter="url(#filter956)" />
-    <use xlink:href="#widget957" />
+    <use xlink:href="#widget1301" filter="url(#filter1300)" />
+    <use xlink:href="#widget1301" />
   </g>
 </svg>
